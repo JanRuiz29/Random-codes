@@ -4,6 +4,7 @@ body
     height: 100vh;
     justify-content: center;
     align-items: center;
+    display: flex;
     background: #ffeef5;
     font-family: 'Comic Sans MS', cursive, sans-serif;
 }
@@ -119,4 +120,5 @@ body
     {
         transform: translateY(-20px);
     }
+
 }
